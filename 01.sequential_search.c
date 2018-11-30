@@ -1,3 +1,6 @@
+//vishnu v
+//s3D
+//57
 #include <stdio.h>
 
 int sequentialSearch(int array[], int size, int element) {
